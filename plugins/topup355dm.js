@@ -13,7 +13,7 @@
 import fetch from 'node-fetch'
   import axios from 'axios'
 let handler = async(m, { conn, usedPrefix, command, text }) => {
-  let owned = '6282214729677@s.whatsapp.net'
+  let owned = '6281321776496@s.whatsapp.net'
   if(!text) throw `*Cara penggunaan :*\n\n${usedPrefix + command} id|nomor\n\n*Note:*\n*Contoh:* ${usedPrefix + command} 239814337|082214729677`;
   let [id, num] = text.split('|');
   let res = await fetch(`https://saipulanuar.ga/api/topup/epep5?id=${id}&nomor=${num}&apikey=${bear}`)

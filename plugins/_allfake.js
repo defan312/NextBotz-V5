@@ -25,8 +25,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '6281361281833@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '6281321776496@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'defansugiarto5@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'defansugiarto5@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -54,9 +54,9 @@ handler.all = async function (m) {
 		}
 		global.fakeig = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Instagram.com/bot_whangsaf",
+            mediaUrl: "https://instagram.com/defan_sugiarto",
             mediaType: "VIDEO",
-            description: "https://Instagram.com/bot_whangsaf", 
+            description: "https://instagram.com/defan_sugiarto", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
@@ -70,7 +70,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6281321776496-1625305606@g.us" } : {}) 
                        },
             message: { 
                "audioMessage": {
@@ -85,7 +85,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6281321776496-1625305606@g.us" } : {}) 
                        },
             message: { 
                "extendedTextMessage": {
@@ -115,7 +115,7 @@ handler.all = async function (m) {
                    global.ftoko = {
        key: {
                    fromMe: false,
-                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6282127487538@s.whatsapp.net" } : {})
+                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6281321776496@s.whatsapp.net" } : {})
                },
                message: {
                    "productMessage": {
@@ -156,7 +156,7 @@ handler.all = async function (m) {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6282127487538-1625305606@g.us",
+                   "groupJid": "6281321776496-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Kawan WH MODS DEV", 
                    "caption": wm, 
@@ -169,7 +169,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6281321776496-1625305606@g.us" } : {}) 
                        },
             message: { 
                         "videoMessage": { 

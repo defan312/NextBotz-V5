@@ -16,7 +16,7 @@ var main = {
    }
 }
 
-await conn.reply(m.chat, `ꪶPUTRA⿻ꫂ`, main)
+await conn.reply(m.chat, `ꪶDefan⿻ꫂ`, main)
 }
 handler.help = ['buggc']
 handler.tags = ['bugmenu']

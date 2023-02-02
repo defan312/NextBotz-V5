@@ -13,13 +13,13 @@ let totalf = Object.values(global.plugins).filter(
   ).length;
  await conn.sendButton(m.chat, `Total Fitur Bot Saat ini: ${totalf}\n`,wm + '\n\n' + botdate, giflogo, [['MENU','.menu']], m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/ALQiRR1nzLI',
+                        sourceUrl: 'https://instagram.com/defan_sugiarto,
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ PutraModz ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ PutraModz ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                        mediaUrl: 'https://youtu.be/ALQiRR1nzLI'
+                        mediaUrl: 'https://instagram.com/defan_sugiarto'
                         
                       }}
 })
