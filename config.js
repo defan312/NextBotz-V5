@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sig = 'https://instagram.com/defan_sugiarto'
+global.syt = '_'
+global.sgh = 'https://github.com/sasal6'
+global.sgc = 'https://chat.whatsapp.com/I9gCWSLGlmjDFLG3WC9RvW'
+global.sdc = 'https://wa.me/6281321776496'
+global.swa = 'wa.me/6281321776496'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -45,10 +45,10 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6282137713055'
+global.nomorown = '6281321776496'
+global.namebot = 'ᴬᴺᴵᴬ ᴮᴼᵀ'
+global.nameown = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
@@ -56,7 +56,7 @@ global.owner = [
   ['6282214729677'],
   ['6283863727733'],
   ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6281321776496', 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,14 +109,14 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'ᴬᴺᴵᴬ ᴮᴼᵀ' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
+global.wm3 = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.titlebot = `ᴬᴺᴵᴬ ᴮᴼᵀ | ʙʏ ${global.nameown}`
+global.author = 'ᴬᴺᴵᴬ ᴮᴼᵀ' 
+global.packname = 'ᴬᴺᴵᴬ ᴮᴼᵀ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Februari 02 2023'
 
@@ -135,10 +135,10 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
+global.nameowner = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
+global.umurowner = '16'
+global.asalowner = 'Jawa Tengah, Kebumen'
+global.nomorowner = 'wa.me/6281321776496'
 global.pacarowner = 'Amelia Putri septiany'
 
 /*============== TEXT ==============*/
@@ -152,7 +152,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6fc98b67397beb0b1374d.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c30e61fb40b506e0d101d.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -387,8 +387,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
+global.stickauth = `ᴬᴺᴵᴬ ᴮᴼᵀ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
