@@ -15,7 +15,7 @@ RUN apt-get update && \
 COPY package.json .
 RUN npm install -g npm@8.1.3
 RUN npm install -g pm2
-RUN npm update
+RUN npm start
 COPY . .
 RUN pm2 save
 CMD ["pm2-runtime", "next.js"]`
